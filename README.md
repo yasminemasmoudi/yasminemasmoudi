@@ -1,5 +1,5 @@
 ## 👋 Hey there! I'm Yasmine  
-### Software & Data Engineer | Cloud & MLOps Enthusiast
+### Software & Data Engineer
 
 I build scalable data systems and AI-powered solutions.  
 If an idea excites me, I’ll prototype it, test it, refine it, and ship it 🚀.
